@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online Voting System**
 
-- 🌱 I’m currently learning **JavaScript & Py Frameworks**
+- 🌱 I’m currently learning **JavaScript & Full Stack Devlopment.**
 
 - 💬 Ask me anything about **Python**
 
