@@ -12,7 +12,7 @@
 - 📫 How to reach me **rups1808@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rupeshdesai2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshdesai2010" height="30" width="40" /></a>
 <a href="https://instagram.com/rups_2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rups_2010" height="30" width="40" /></a>
