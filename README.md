@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello.!!+😇 👋;+I'm+Rupesh+Desai. 🇮🇳;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&pause=1000&color=1590F7&width=435&lines=Hello..+%F0%9F%98%89+%F0%9F%91%8B;I'm++Rupesh+Desai.++" alt="Typing SVG" /></a>
 </h1>
+
 <h3 align="center">Real Coders Don't Debug— They Just Build Better Solutions.!</h3> <br>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
@@ -29,13 +30,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rupesh-2010&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-2010&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Rupesh-2010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Quote For Today:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Rupesh-2010&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
