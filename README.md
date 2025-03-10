@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rupeshdesai2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshdesai2010" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/rups1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rups1808" height="30" width="40" /></a>
-<a href="mailto:rupeshdesaiwork@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="rups1808" height="30" width="40" /></a>
+<a href="mailto:rupeshdesaiwork@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="rups1808" height="30" width="50" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -34,10 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rupesh-2010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Quote For Today:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord parameter)
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Rupesh-2010&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rupesh-2010&icon=0&color=3)](https://visitcount.itsvg.in)
