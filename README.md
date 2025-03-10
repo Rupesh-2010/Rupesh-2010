@@ -1,5 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&pause=1000&color=1590F7&width=435&lines=Hello..+😉👋;I'm++Rupesh+Desai.++" alt="Typing SVG" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&weight=100&size=45&pause=10&color=1590F7&width=435&height=60&lines=Hello..+%F0%9F%98%89+%F0%9F%91%8B;I'm++Rupesh+Desai.++" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Real Coders Don't Debug— They Just Build Better Solutions.!</h3> <br>
