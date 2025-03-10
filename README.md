@@ -34,7 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rupesh-2010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Quote For Today:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord parameter)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nordparameter)
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Rupesh-2010&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
